@@ -1,7 +1,7 @@
-[![author](https://img.shields.io/badge/author-carlosfab-red.svg)](https://www.linkedin.com/in/gabriellesilvano) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/carlosfab/data_science/issues)
+
 
 <p align="center">
-  <img src="https://github.com/gabisilvano/data_science/blob/master/gabisilvano.png" >
+  <img src="gabisilvano.png" >
 </p>
 
 # Gabi Silvano
@@ -12,7 +12,7 @@
 **Links:**
 * [Blog](http://www.gabisilvano.com)
 * [LinkedIn](https://www.linkedin.com/in/gabriellesilvano)
-* [Medium](https://www.medium.com)
+* [Medium](https://medium.com/@gabisilvano)
 
 
 ## Projetos:
